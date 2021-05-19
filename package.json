@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^15.3.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
